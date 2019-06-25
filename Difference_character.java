@@ -10,7 +10,7 @@ public class Difference_character {
 		int count=0;
 		if(st.length()!=st1.length())
 		{
-			System.out.println("No");
+			System.out.println("no");
 		}
 		else
 		{
@@ -22,9 +22,9 @@ public class Difference_character {
 				}
 			}
 			if(count==1)
-				System.out.println("Yes");
+				System.out.println("yes");
 			else
-				System.out.println("No");
+				System.out.println("no");
 		}
 	}
 
